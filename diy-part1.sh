@@ -62,17 +62,18 @@ git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dock
 git clone https://github.com/fw876/helloworld.git package/helloworld
 
 #passwall
-
 git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
+git clone https://github.com/xiaorouji/openwrt-passwall/tree/luci/luci-app-passwall package/luci-app-passwall
 
 #helloword
-
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
+git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 
 #openclash
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
 #luci-app-adguardhome
+git clone https://github.com/AdguardTeam/AdGuardHome.git package/AdGuardHome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
 ##############################################################################################
@@ -80,7 +81,7 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci
 # NAS
 
 #文件助手
-git clone https://github.com/shidahuilang/luci-app-fileassistant.git package/luci-app-fileassistant
+git clone https://github.com/DarkDean89/luci-app-filebrowser package/luci-app-filebrowser
 
 ##############################################################################################
 
