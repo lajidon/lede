@@ -16,3 +16,78 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+##############################################################################################
+
+# 主题
+git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-argonne
+
+##############################################################################################
+
+
+# 状态
+
+# 实时监控
+git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
+
+#释放内存
+git clone https://github.com/chinaboy2345/luci-app-ramfree.git package/luci-app-ramfree
+
+##############################################################################################
+
+#  系统
+
+#定时重启
+git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
+
+#ttyd
+
+#磁盘管理
+git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+
+#文件传输
+git clone https://github.com/f8q8/luci-app-filetransfer.git package/luci-app-filetransfer
+
+
+#  关机
+git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
+
+##############################################################################################
+
+# 服务
+#docker
+
+git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+
+#ShadowSocksR Plus+
+git clone https://github.com/fw876/helloworld.git package/helloworld
+
+#passwall
+
+git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
+
+#helloword
+
+git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
+
+#openclash
+git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+
+#luci-app-adguardhome
+git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+
+##############################################################################################
+
+# NAS
+
+#文件助手
+git clone https://github.com/shidahuilang/luci-app-fileassistant.git package/luci-app-fileassistant
+
+##############################################################################################
+
+# 网络
+
+#Turbo ACC 加速
+
+git clone https://github.com/imapproxy/luci-app-turboacc.git package/luci-app-turboacc
+
+##############################################################################################
