@@ -27,7 +27,7 @@ git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-
 # 状态
 
 # 实时监控
-#git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
+git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 
 #释放内存
 git clone https://github.com/chinaboy2345/luci-app-ramfree.git package/luci-app-ramfree
