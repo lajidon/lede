@@ -83,7 +83,6 @@ git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-adguardhome package/luci-app-adguardhome
 #svn co https://github.com/kiddin9/openwrt-packages/trunk/adguardhome package/adguardhome
 #svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-adguardhome package/luci-app-adguardhome
-git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 
 ##############################################################################################
 
