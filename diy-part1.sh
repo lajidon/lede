@@ -36,7 +36,7 @@ git clone https://github.com/chinaboy2345/luci-app-ramfree.git package/luci-app-
 #  系统
 
 #定时重启
-git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
+#git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
 
 #ttyd
 
